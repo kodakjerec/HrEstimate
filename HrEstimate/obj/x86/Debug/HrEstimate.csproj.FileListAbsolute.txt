@@ -1,0 +1,16 @@
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\Interop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\AxInterop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.csproj.ResolveComReference.cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.Form1.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.Form2.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.Properties.Resources.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.TestForm03.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.csproj.GenerateResource.Cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.exe.licenses
+D:\Projects\人效\HrEstimate\HrEstimate\bin\x86\Debug\HrEstimate.exe
+D:\Projects\人效\HrEstimate\HrEstimate\bin\x86\Debug\HrEstimate.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\bin\x86\Debug\Interop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\bin\x86\Debug\AxInterop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.exe
+D:\Projects\人效\HrEstimate\HrEstimate\obj\x86\Debug\HrEstimate.pdb

@@ -1,0 +1,77 @@
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\HrEstimate.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form1.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Properties.Resources.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.csproj.GenerateResource.Cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\NDde.dll
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\ClientAccess.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\ClientLoader.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\NDde.xml
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\HrEstimate.pdb
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\ClientAccess.dll
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\ClientLoader.dll
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\NDde.dll
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\ClientLoader.pdb
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\NDde.xml
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\ClientAccess.pdb
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form1.resources
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Properties.Resources.resources
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.csproj.GenerateResource.Cache
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.pdb
+E:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\HrEstimate.dll
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.dll.licenses
+E:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.dll
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\bin\Debug\HrEstimate.pdb
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\bin\Debug\NDde.dll
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\bin\Debug\ClientLoader.pdb
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\bin\Debug\NDde.xml
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\bin\Debug\ClientAccess.pdb
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form1.resources
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Properties.Resources.resources
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.csproj.GenerateResource.Cache
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.pdb
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form2.resources
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\bin\Debug\HrEstimate.exe
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.exe.licenses
+D:\Documents and Settings\jack_cho\桌面\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.exe
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.pdb
+C:\projects\HrEstimate\HrEstimate\HrEstimate\bin\Debug\HrEstimate.pdb
+C:\projects\HrEstimate\HrEstimate\HrEstimate\bin\Debug\NDde.dll
+C:\projects\HrEstimate\HrEstimate\HrEstimate\bin\Debug\NDde.xml
+C:\projects\HrEstimate\HrEstimate\HrEstimate\bin\Debug\ClientLoader.pdb
+C:\projects\HrEstimate\HrEstimate\HrEstimate\bin\Debug\ClientAccess.pdb
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form1.resources
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form2.resources
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Properties.Resources.resources
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.csproj.GenerateResource.Cache
+C:\projects\HrEstimate\HrEstimate\HrEstimate\bin\Debug\HrEstimate.dll
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.dll.licenses
+C:\projects\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.dll
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.pdb
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\bin\Debug\HrEstimate.exe
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\bin\Debug\HrEstimate.pdb
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\bin\Debug\NDde.dll
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\bin\Debug\NDde.xml
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\bin\Debug\ClientLoader.pdb
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\bin\Debug\ClientAccess.pdb
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form1.resources
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form2.resources
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Properties.Resources.resources
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.csproj.GenerateResource.Cache
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.exe.licenses
+D:\Documents and Settings\kota_ching\桌面\HrEstimate\HrEstimate\HrEstimate\HrEstimate\obj\Debug\HrEstimate.exe
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.Form2.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.TestForm03.resources
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\HrEstimate.dll
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\Interop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Debug\AxInterop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\Interop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\AxInterop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.csproj.ResolveComReference.cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.dll.licenses
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Debug\HrEstimate.dll

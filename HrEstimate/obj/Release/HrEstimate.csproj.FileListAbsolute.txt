@@ -1,0 +1,16 @@
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Release\HrEstimate.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.Form1.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.Form2.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.Properties.Resources.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.TestForm03.resources
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.csproj.GenerateResource.Cache
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.pdb
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Release\Interop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Release\AxInterop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\Interop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\AxInterop.SmartViewer.dll
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.csproj.ResolveComReference.cache
+D:\Projects\人效\HrEstimate\HrEstimate\bin\Release\HrEstimate.exe
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.exe.licenses
+D:\Projects\人效\HrEstimate\HrEstimate\obj\Release\HrEstimate.exe
