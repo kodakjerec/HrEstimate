@@ -22,7 +22,7 @@ namespace HrEstimate
             
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TestForm03());
+            Application.Run(new Form1());
         }
 
         //處理UI執行緒錯誤
